@@ -1,0 +1,4 @@
+[GIN-debug] GET    /get/:name                --> chatapp/router.test (5 handlers)
+[GIN-debug] GET    /db                       --> chatapp/router.getAllChat (5 handlers)
+[GIN-debug] Environment variable PORT is undefined. Using port :8080 by default
+[GIN-debug] Listening and serving HTTP on :8080
